@@ -116,7 +116,7 @@ These exclusions apply only to this proposed portfolio scope and do not represen
 
 ## 10. Scope Approval
 
-**Prepared By:** Junior GRC Analyst (Simulated)  
+**Prepared By:** Md. Shafiur Rahman, Junior GRC Analyst   
 **Reviewed By:** GRC Manager (Simulated)  
 **Approved By:** Management (Simulated)
 
